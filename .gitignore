@@ -1,0 +1,7 @@
+fsim/build/*
+example/tinyyolo/*.bin
+example/yolov3/*.bin
+example/*.txt
+test/__pycache__/*
+workspace/*
+!workspace/Makefile
